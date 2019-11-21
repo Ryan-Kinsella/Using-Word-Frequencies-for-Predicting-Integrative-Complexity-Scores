@@ -1,0 +1,2 @@
+# Using-Word-Frequencies-for-Predicting-Integrative-Complexity-Scores
+American presidential speeches have been ranked in terms of integrative complexity (IC), their score for having more than one viewpoint. IC scores will range from 0-4, 4 being aware of many viewpoints. 148 records have been supplied with the most occurring word rates, with corresponding IC scores to match each speech. Each IC score will be attempted to be predicted using word rates from the 148 speeches, using both classification and regression models. 
